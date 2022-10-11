@@ -33,3 +33,6 @@ void draw() {
 
 #### Preview
 https://user-images.githubusercontent.com/96544487/194995938-dece5c83-a754-44b0-9169-317cf3b6eb39.mp4
+
+#### BUGS🐛
+I personally doubt anybody will use this, but in the case that you ARE actually using this for something, and you run across a mischevious bug, feel free to submit an issue if you don't know how to fix it, and I'll tinker around until it's fixed, then push a new update and let you know in your original post before I mark it as completed. If you DO know how to fix it, please consider contributing to this project as I'd love to see what features/fixes we could potentially add in the future!
