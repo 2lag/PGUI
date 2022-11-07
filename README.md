@@ -28,7 +28,7 @@ void draw() {
   b.update();
 }
 
-#BUTTON CLASS GOES DOWN HERE#
+#BUTTON CLASS GOES HERE#
 ```
 
 #### Preview
